@@ -1,0 +1,72 @@
+﻿Lighting Cues  - Sound Cues  (March 15)
+
+
+ACT 1
+
+S 	- house music
+L1 - preset (top of show)
+S  	- fade house music
+L2 - fade to black (top of show)
+S 20	- top of show
+L3 - Top of show lights
+L 3.5 (cauldron light)
+S 30	- fade top of show (L sits second time)
+S 40	- Anastasia change music (you have wrought)
+S 50	- fade Anastasia music (Ana enters)
+L4 - Anastasia lights
+S 60	- Ana/Delilah change music ("hardly ever")
+L5 - Change Lights
+S 70	- Delilah fade (D on standing DSC) 
+L6 - Delilah Lights
+S 80	- D/G change music ("I say enough")
+L7 - Change lights
+S 90	- D/G fade (G stands at entrance)
+L8 - Gingema wash
+L9 - Gingema spot (40 sec fade)
+L10 - Gingema wash (40 sec fade in)
+S 100	G/W change (G turns back at doorway)
+L11 - Change lights
+S 110	G/W fade (Meredith X's DS)
+L 12 - Witches lights
+S 120	W/B Change - (laughter on exit)
+L 13 - Change lights
+S 130	W/B fade - B stands at pedestal
+L 14 - Brangomar lights
+S 140	B exit
+L 15 - Fade to black
+L 16 - preset
+S 	Intermission music
+
+
+
+
+
+ACT 2
+
+S 	face house music
+L 20 - fade to black (top of act)
+S 150	Magda music (8 counts - M enters in black)
+S 160	Magda music fade
+L 21 - Magda light  (snap - on "Magda")
+S 180	M/L change ("no comment at all")
+L 22 - Change light
+S 190	M/L change fade (Lilith DSC)
+L 23 - Lilith light
+S 210	L/C change (L "looking at my view")
+L 24 - Change light
+S 220	L/C change fade (C enters X DSC)
+L 25 - Carabosse light
+S 230	C/W change ("that makes me happy")
+L 26 - Change light
+L 27 - Wolfgang wash
+S 240	C/W fade (W sits)
+L 28 - Wolfgang spot (40 sec count)
+S 242	Wolf/end change - ("love that smokey flavour")
+L 30 - Change light
+L 30 - End of show
+S 244	Fade end change music (all on)
+L 31 - blackout (snap) "WICKED"
+S 250	Curtain call music (4 count)
+L 32 - Curtain call
+L 33 - preset
+

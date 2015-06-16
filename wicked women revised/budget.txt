@@ -1,0 +1,77 @@
+﻿Budget:
+
+Revenues
+
+Expenses
+
+
+
+
+
+Ticket Sales (9 shows)
+84 seats @50%
+Hall Rental
+
+       # of tickets
+
+
+Costumes
+650
+       Price per ticket
+18
+
+Scripts
+n/c
+       Total Revenue
+6804
+Performance rights
+n/c
+
+
+Posters
+n/c
+Donations
+
+Programs
+n/c
+Program Ads
+300
+Other advertising
+980
+
+
+Set materials
+300
+
+
+Props
+200
+
+
+Food
+
+
+
+Rehearsal hall rental
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL REVENUE
+7104
+TOTAL EXPENSES
+2130
+

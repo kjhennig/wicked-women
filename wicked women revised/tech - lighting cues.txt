@@ -1,0 +1,61 @@
+﻿Lighting Cues (so far)
+
+
+ACT 1
+
+L1 - preset (top of show)
+L2 - fade to black (top of show)
+L3 - Top of show lights
+L4 - Anastasia lights
+L5 - Change Lights
+L6 - Delilah Lights
+L7 - Change lights
+L8 - Gingema wash
+L9 - Gingema spot
+L10 - Gingema wash (?)
+L11 - Change lights
+L 12 - Witches lights
+L 13 - Change lights
+L 14 - Brangomar lights
+L 15 - Fade to black
+L 16 - preset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACT 2
+
+L 20 - fade to black (top of act)
+L 21 - Magda light  (snap)
+L 22 - Change light
+L 23 - Lilith light
+L 24 - Change light
+L 25 - Carabosse light
+L 26 - Change light
+L 27 - Wolfgang wash
+L 28 - Wolfgang spot
+L 29 - Wolfgang wash (?)
+L 30 - Change light
+L 30 - End of show
+L 31 - blackout (snap)
+L 32 - Curtain call
+L 33 - preset
+
